@@ -1,3 +1,4 @@
 test
 merge commit example
 from merge
+from the b2 
